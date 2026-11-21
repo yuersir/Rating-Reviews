@@ -1,0 +1,6 @@
+{
+  "name": "信评委评审会智能匹配与轮换系统",
+  "description": "面向信用评级机构的三端协同评审调度平台，支持动态90天集中度红线管控、半天防折返排期优化、30分钟超时递补、防挑人轮换及不可篡改审计日志。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
